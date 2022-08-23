@@ -83,7 +83,6 @@ nav ul li a:hover::after{
 .fa-xmark,.fa-bars{
     display: none;
 }
-
 .header-text{
     margin-top: 20%;
     font-size: 30px;
